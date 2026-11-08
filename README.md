@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sage — LLM Chatbot with Context Window Management
 
 A multi-turn chatbot backed by a real LLM API (**Google Gemini** or **OpenAI**, your choice), with a Flask backend,
@@ -98,3 +99,6 @@ Errors return JSON like `{"error": "Rate limit reached…", "kind": "rate_limit"
 - Add streaming responses (Server-Sent Events) for a typing effect.
 - Count real tokens (e.g. `tiktoken`) instead of messages for a more precise budget.
 - Before pushing to GitHub run `git status` and confirm `.env` is not listed.
+=======
+# LLM-Chatbot
+>>>>>>> 0cced45fec1d345ad02609c49902444312a4f9fc
